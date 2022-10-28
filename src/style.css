@@ -1,0 +1,26 @@
+@tailwind utilities;
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.6rem;
+}
+
+p {
+	margin: 0 0 1rem;
+}
+
+a {
+	color: inherit;
+}
+
+ol,
+ul {
+	margin-top: 0;
+}
